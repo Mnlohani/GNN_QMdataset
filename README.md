@@ -23,6 +23,13 @@ Pytorch[5] and pytorch-geometric [6]
 ## Results
 Please refer the report for detailed analysis. Our model with GCN layer in architecture 2 gave better result with respect to architecture model 1 with around 8 kcal/mol of Mean absolute Error (MAE). The work gives a motivation that the further architecture tuning will eventually lead to lesser MAE and achieve chemical accuracy.
 
+![Results 1](images/Comparision_first.png)
+
+![Results 1](images/Table_result.png)
+
+![Results 1](images/Test_set.png)
+
+
 ## Bibliography
 [1] Ramakrishnan, Raghunathan, Dral, Pavlo O, Rupp, Matthias, and Von Lilienfeld, O Anatole. Quantum chemistry structures and properties of 134 kilo
 molecules. Scientific data, 1, 2014.
